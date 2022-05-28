@@ -1,0 +1,15 @@
+{
+  "name": "callback-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4-callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "postman-request": "^2.88.1-postman.31"
+  }
+}
